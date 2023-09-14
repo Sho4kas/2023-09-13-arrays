@@ -163,14 +163,4 @@ console.log(sliceddata26)
 let sliceddata27 = data.slice(11, 20)
 console.log(sliceddata27)
 
-// 2.28. Gauti 12 narių skaičiuojant nuo 8.
-let sliceddata28 = data.slice(8, 20)
-console.log(sliceddata28)
-
-// 2.29. Gauti pirmus penkis ir paskutinius šešis masyvo narius. Šiuos narius gauti viename masyve. Reikės atlikti daugiau veiksmų nei prieš tai uždaviniuose.
-let sliceddata29 = data.slice[8, 20]
-console.log(sliceddata29)
-
-// 2.30. Gauti masyvo narius nuo 3 iki 5 ir nuo 15 iki 17. Šiuos narius gauti viename masyve. Reikės atlikti daugiau veiksmų nei prieš tai uždaviniuose.
-
 
